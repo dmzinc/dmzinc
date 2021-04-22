@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**dmzinc/dmzinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am web developer and designer. I would 🤍 to start contibuting to open source
 
-Here are some ideas to get you started:
+### skills
+- HTML/CSS
+- JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Stats
+
+![Dmzinc'sstat](https://github-readme-stats.vercel.app/api?username=dmzinc&count_private=true&show_icons=true&theme=radical)
+
+
+### Top Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMZINC&show_icons=true&theme=radical)
