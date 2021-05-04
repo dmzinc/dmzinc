@@ -5,7 +5,7 @@ I am web developer and designer. I would 🤍 to start contibuting to open sourc
 ### skills
 - HTML/CSS
 - JS
-
+- ReactJs
 ### Github Stats
 
 ![Dmzinc'sstat](https://github-readme-stats.vercel.app/api?username=dmzinc&count_private=true&show_icons=true&theme=radical)
