@@ -1,23 +1,9 @@
-### Hi there 👋
+. 👋 Hi I'm Afolabi 
 
-I believe in continuous improvement and am a DevOps and SRE student with a passion for Cloud computing, architecting multi-tier systems on AWS. Terraform, Jira, Ansible, Docker, Kubernetes, Jenkins, AWS secret manager, Python, Agrocd, Cloud formation, and Linux are all part of my IT stack.
+. 👀 I'm a DevOps engineer
 
-📫 How to reach me afolabi2245@gmail.com
-### skills
-- K8S
-- Docker
-- AgroCd
-- Jenkins
-- Linux
-- Bash Script
-- AWS
-- Python
-- Ansible
-### Github Stats
+. 💞️  I’m looking to collaborate on devops project
 
-![Dmzinc'sstat](https://github-readme-stats.vercel.app/api?username=dmzinc&count_private=true&show_icons=true&theme=radical)
+. 📫 How to reach me afolabi2245@gmail.com
 
-
-### Top Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DMZINC&show_icons=true&theme=radical)
 
