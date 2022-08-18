@@ -2,6 +2,7 @@
 
 I believe in continuous improvement and am a DevOps and SRE student with a passion for Cloud computing, architecting multi-tier systems on AWS. Terraform, Jira, Ansible, Docker, Kubernetes, Jenkins, AWS secret manager, Python, Agrocd, Cloud formation, and Linux are all part of my IT stack.
 
+📫 How to reach me afolabi2245@gmail.com
 ### skills
 - K8S
 - Docker
