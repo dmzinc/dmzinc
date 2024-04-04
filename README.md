@@ -13,7 +13,7 @@
 
 - :telescope: I’m a DevOps Engineer.
 
-- :seedling: I'm currently learning DevOps, DevSecOps, and the cloud more broadly.
+- :seedling: I'm currently open to roles
 
 - :zap: In my free time, I read tech articles.
 
